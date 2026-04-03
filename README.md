@@ -22,7 +22,8 @@ Dependencies
 Install the required Python libraries:
 
 Bash
-pip install numpy sounddevice winsound
+
+``pip install numpy sounddevice winsound``
 📋 Setup & Usage
 Prepare your audio:
 Open the volume mixer and find the Discord's System Notifications mixer and thhen set the outputt to Virtual Audio Cable.
