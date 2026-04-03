@@ -25,8 +25,9 @@ Bash
 pip install numpy sounddevice winsound
 📋 Setup & Usage
 Prepare your audio:
+Open the volume mixer and find the Discord's System Notifications mixer and thhen set the outputt to Virtual Audio Cable.
+<img width="582" height="397" alt="image" src="https://github.com/user-attachments/assets/17c129b4-2aa3-4d81-aed0-3aa10930b762" />
 
-Set Discord's notifications output to a Virtual Audio Cable.
 
 Ensure you have a file named custom_join.wav in the root directory if you want the "Join" trigger to work.
 
